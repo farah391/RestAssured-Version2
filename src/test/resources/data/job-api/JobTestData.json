@@ -1,0 +1,14 @@
+{
+  "scrum" : [ {
+    "jobId" : "Admin7",
+    "jobTitle" : "paralegal3",
+    "minSalary" : 3000,
+    "maxSalary" : 10000
+  }, {
+    "jobId" : "AD_VP",
+    "jobTitle" : "New title",
+    "minSalary" : 3000,
+    "maxSalary" : 20000
+  } ],
+  "sit" : [ { } ]
+}
